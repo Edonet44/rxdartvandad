@@ -39,3 +39,7 @@ watch the results in the right.
 ## Tech
 
 Dillinger uses a number of open source projects to work properly:
+
+## nuove feature
+
+Cerco di capire come funzionano i markdown e git stamattina
