@@ -6,7 +6,7 @@
 
 [![Explain](https://www.youtube.com/watch?v=xBFWMYmm9ro)](https://travis-ci.org/joemccann/dillinger)
 
-Understand RxDart!
+Understand ---- RxDart ---
 
 - Create new project
 - See Youtubevide
